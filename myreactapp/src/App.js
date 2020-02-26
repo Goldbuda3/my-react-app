@@ -10,6 +10,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <NameForm/>
       </header>
+
+    
     </div>
   );
 }
